@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.c": [
+      {
+        "id": "2f3e54b7-2f93-402a-8677-493fd331afea",
+        "line": 9,
+        "version": 385,
+        "index": 84
+      },
+      {
+        "id": "e16d194a-5b55-45cd-ae00-7a61ed3e0cf1",
+        "line": 12,
+        "version": 385,
+        "index": 96
+      }
+    ]
+  }
+}
